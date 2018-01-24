@@ -1,0 +1,10 @@
+{
+  "name": "Operatioinal Transformation Example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "lastiverse@gmail.com",
+  "license": "ISC"
+}
